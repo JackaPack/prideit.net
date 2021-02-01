@@ -1,2 +1,2 @@
 # prideit.net
-Backend for PRIDEIT.net site
+Frontend for PRIDEIT.net site
